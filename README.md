@@ -10,7 +10,7 @@ https://youtu.be/IvrRi-dvLkk
 
 ## Preview - Localhost
 
-![Preview](https://github.com/vishwarajanand/WebsiteSpeechSynthesis/blob/master/demos/preview.png?raw=true "Preview")
+![Preview](https://github.com/vishwarajanand/WebsiteSpeechSynthesis/blob/main/demos/preview.png?raw=true "Preview")
 
 ## Test samples
 1. Multi lingual text, not so clear speech:
