@@ -1,7 +1,12 @@
 # Website Speech Synthesis
 Using Chrome's speech synthesis APIs to speak out any given text. Speech synthesis is well supported on the browsers. I gave it a tough task to speak a multi lingual sentence (English + Hindi) and created this demo. If given simpler English sentence, it does translate well.
 
+## Blog
+
+Blog is published at: https://vishwarajanand.com/business/released-website-speech-synthesis/
+
 ## Demo
+
 Hosted on Github Pages:
 **[https://vishwarajanand.github.io/WebsiteSpeechSynthesis](https://vishwarajanand.github.io/WebsiteSpeechSynthesis/)**
 
