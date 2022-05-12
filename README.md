@@ -3,7 +3,7 @@ Using Chrome's speech synthesis APIs to speak out any given text. Speech synthes
 
 ## Blog
 
-Blog is published at: https://vishwarajanand.com/business/released-website-speech-synthesis/
+Blog is published at: https://vishwarajanand.com/tech/released-website-speech-synthesis/
 
 ## Demo
 
